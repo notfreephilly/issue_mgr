@@ -23,7 +23,7 @@ For the `Team` model, consider the following team names (as a suggestion):
 2. As a product owner, I'd like to be able to create new issues so developers can work on them.
 2.1. Only product owners can create new issues.
 3. As a developer, I'd like to be able to update an issues status to represent my progress on it.
-4. As a scrum master, I'd like to be able to revert an issue in the "done" column to "to do" if I do not feel the work was successfully completed.
+4. As a scrum master, I'd like to be able to revert an issue in the "done" column to "to do" if I do not feel the work was successfully completed. -FormValid
 4.1. Only scrum masters can make this change.
 5. The following statuses should be available:
 5.1. "to do" - "An issue for which work has not yet begun"
